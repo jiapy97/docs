@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Blogs",
+      "url": "blog"
     }
   ],
   "anchors": [
@@ -80,6 +80,12 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Blogs",
+      "pages": [
+        "blog/test"
       ]
     }
   ],
